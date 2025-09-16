@@ -1,1 +1,7 @@
-echo "Hola";
+<?php
+
+require_once "./src/functions.php";
+
+$funcion = new saludos;
+
+?>
